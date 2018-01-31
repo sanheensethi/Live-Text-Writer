@@ -24,12 +24,13 @@ textarea:focus{
 	border-bottom-color:blue;
 }
 .sh{
-    position:fixed;
 	background-color:#fff;
 	color:#000;
 	height:100px;
 	width:255px;
 	word-wrap: break-word;
+	text-align:justify;
+	white-space:initial
 	overflow:scroll;
 	border:1px solid transparent;
 	border-bottom-color:#f00;
