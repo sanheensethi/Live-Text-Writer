@@ -1,7 +1,7 @@
 {
   "name": "live-text-writer",
   "version": "1.0.0",
-  "description": "This is Live text writer , in this when yiu write in textarea it Auto shows you Live whatever you write , works without ajax , php",
+  "description": "This is Live text writer , in this when yiu write in textarea it Auto shows you Live whatever you write , works without Ajax , PHP , AngularJS",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
