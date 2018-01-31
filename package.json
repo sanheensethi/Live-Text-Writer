@@ -1,0 +1,28 @@
+{
+  "name": "live-text-writer",
+  "version": "1.0.0",
+  "description": "This is Live text writer , in this when yiu write in textarea it Auto shows you Live whatever you write , works without ajax , php",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanheensethi/Live-Text-Writer.git"
+  },
+  "keywords": [
+    "Live",
+    "Live",
+    "Text",
+    "Writer",
+    "Live",
+    "Text",
+    "Show"
+  ],
+  "author": "Sanheen Sethi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanheensethi/Live-Text-Writer/issues"
+  },
+  "homepage": "https://github.com/sanheensethi/Live-Text-Writer#readme"
+}

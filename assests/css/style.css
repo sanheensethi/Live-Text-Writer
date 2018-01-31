@@ -1,0 +1,38 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+.container{
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+}
+label{
+	color:blue;
+}
+textarea{
+	margin-top:10px;
+	padding:2px;
+	outline:none;
+	border: 1px solid transparent;
+	border-bottom-color:#000;
+	transition:2s;
+}
+textarea:focus{
+	border-bottom-color:blue;
+}
+.sh{
+    position:fixed;
+	background-color:#fff;
+	color:#000;
+	height:100px;
+	width:255px;
+	word-wrap: break-word;
+	overflow:scroll;
+	border:1px solid transparent;
+	border-bottom-color:#f00;
+	border-left-color:#f00;
+	margin-top:50px;
+}
